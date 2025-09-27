@@ -1,0 +1,7 @@
+yfinance
+snscrape
+vaderSentiment
+transformers
+scikit-learn
+pandas
+
